@@ -1,4 +1,4 @@
-# Duração de filmes ao decorrer dos anos.
+# Analises das notas das escolas
 Projeto para analisar e gerar conclusoes sobre as notas das escolas do EUA no examme SATs.
 </br>
 #  Tecnologias usadas
